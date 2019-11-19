@@ -38,4 +38,14 @@ In this project, through data exploration and model construction, I was able to 
 -[Matplotlib](https://matplotlib.org/)  
 -[os — Miscellaneous operating system interfaces](https://docs.python.org/3/library/os.html)  
 -[Joblib: running Python functions as pipeline jobs](https://joblib.readthedocs.io/en/latest/)  
- 
+
+## Reference
+-[Decision Tree Classification in Python](https://www.datacamp.com/community/tutorials/decision-tree-classification-python)
+
+-[Understanding Random Forest](https://towardsdatascience.com/understanding-random-forest-58381e0602d2)
+
+-[A Gentle Introduction to the Gradient Boosting Algorithm for Machine Learning](https://machinelearningmastery.com/gentle-introduction-gradient-boosting-algorithm-machine-learning/)
+
+-[Complete Machine Learning Guide to Parameter Tuning in Gradient Boosting (GBM) in Python](https://www.analyticsvidhya.com/blog/2016/02/complete-guide-parameter-tuning-gradient-boosting-gbm-python/)
+
+-[Evaluating a Classification Model](https://www.ritchieng.com/machine-learning-evaluate-classification-model/)
